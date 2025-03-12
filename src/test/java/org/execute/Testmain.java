@@ -21,6 +21,10 @@ public class Testmain extends Baseclassjunit {
 		baseclass.sendkeysByJava(page.getUserid(), "fenilastro");
 		baseclass.sendkeysByJava(page.getPassword(), "N43ZW0");
 		baseclass.click(page.getLogin());
+		
+		System.out.println("github dev sucessful");
+		System.out.println("next qa want to work");
+		
 	}
 
 	@Before
